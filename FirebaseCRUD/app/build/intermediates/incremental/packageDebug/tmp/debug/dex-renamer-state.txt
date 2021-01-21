@@ -1,0 +1,7 @@
+#Wed Jan 20 14:03:14 ICT 2021
+base.0=F\:\\PAK ROSID\\Bagus_18090078 - Danny_18090129_(5B)\\FirebaseCRUD\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=F\:\\PAK ROSID\\Bagus_18090078 - Danny_18090129_(5B)\\FirebaseCRUD\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
